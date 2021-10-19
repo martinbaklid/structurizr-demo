@@ -1,0 +1,454 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "revision" : 0,
+  "lastModifiedDate" : "2021-10-19T18:53:21Z",
+  "lastModifiedAgent" : "structurizr-web/2465",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICFkb2NzIGRvY3MKCiAgICBtb2RlbCB7CiAgICAgICAgaW1wbGllZFJlbGF0aW9uc2hpcHMgdHJ1ZQogICAgICAgIAoKICAgICAgICBVc2VyID0gcGVyc29uICJBcHBsaWNhbnQiICJNaWdodCBiZSBhIGN1c3RvbWVyIG9yIGEgcHJvc3BlY3QgY3VzdG9tZXIiCiAgICAgICAgCiAgICAgICAgTW9ydGdhZ2VQb3J0YWwgPSBzb2Z0d2FyZVN5c3RlbSAiTW9ydGdhZ2UgUG9ydGFsIiAiQWxsb3dzIGFwcGxpY2FudHMgdG8gZmlsbCBpbiBtb3J0YWdlIGFwcGxpY2F0aW9ucyBhbmQgYXBwbHkgZm9yIGxvYW4iIHsKICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkZvcm0gPSBjb250YWluZXIgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIEZvcm0iICJBcHBpY2F0aW9uIEZvcm0gd2hpY2ggZ3VpZGVzIHRoZSBhcHBsaWNhbnQgdGhyb3VnaHQgYWxsIHRoZSBzdGVwcyBmb3IgdGhlIGxvYW4gYXBwbGljYXRpb25zIiAiVnVlLkpTIiB7CiAgICAgICAgICAgICAgICB0YWdzIFdlYkFwcCAKICAgICAgICAgICAgfQogICAgICAgICAgICBNb3J0Z2FnZUFwaSA9IGNvbnRhaW5lciAiTW9ydGdhZ2UgQXBwbGljYXRpb24gQVBJIiAiUHJvdmlkZXMgQVBJIGZvciBhcHBseWluZyBmb3IgbG9hbnMiICJTcHJpbmcgTVZDIFRvbWNhdCIgewogICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkNvbnRyb2xsZXIgPSBjb21wb25lbnQgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIENvbnRyb2xsZXIiICJQcm92aWRlcyBlbmRwb2ludHMgZm9yIGNyZWF0aW5nLCB1cGRhdGluZyBhbmQgc3VibWl0dGluZyBhbiBsb2FuIGFwcGxpY2F0aW9uIiAiU3ByaW5nIE1WQyBDb250cm9sbGVyIiB7CiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkZvcm0gLT4gdGhpcyAiU3VibWl0cyBsb2FuIGFwcGxpY2F0aW9uIGZvciBwcm9jZXNzaW5nIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgPSBjb21wb25lbnQgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIFNlcnZpY2UiICJDb250cm9sbHMgdGhlIGZsb3cgb2YgdGhlIGFwcGxpY2F0b24iICJTcHJpbmcgQ29tcG9uZW50IiB7CiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkNvbnRyb2xsZXIgLT4gdGhpcyAiQ3JlYXRlcywgdXBkYXRlcywgYW5kIHN1Ym1pdHMgYXBwbGljYXRpb25zIHVzaW5nIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblJlcG9zaXRvcnkgPSBjb21wb25lbnQgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIFJlcG9zaXRvcnkiICJQcm92aWRlcyBwZXJzaXN0YW5jZSBmb3IgbG9hbiBhcHBsaWNhdGlvbnMiICJTcHJpbmcgSlBBIFJlcG9zc2l0b3J5IiB7CiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAiUGVyc2lzdHMgYXBwbGljYXRpb25zIHVzaW5nIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgQ3JlZGl0Q2xpZW50ID0gY29tcG9uZW50ICJDcmVkaXQgQ2xpZW50IiAiUHJvdmlkZXMgYW4gZmFjYWRlIGZvciBjcmVkaXQgc2NvcmluZyBhbmQgZGVjaXNpb24iICJKYXZhIFBhY2thZ2UiIHsKICAgICAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uU2VydmljZSAtPiB0aGlzICJTY29yZXMgYXBwbGljYW50cyBhbmQgbWFrZXMgZGVjaXNpb25zIHVzaW5nIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uQ2xpZW50ID0gY29tcG9uZW50ICJOb3RpZmljYXRpb24gQ2xpZW50IiAiUHJvdmlkZXMgbm90aWZpY2F0aW9uIGZlYXR1cmVzIiAiSmF2YSBQYWNrYWdlIiB7CiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAiU2VuZHMgbm90aWZpY2F0aW9ucyB0byBjdXN0b21lcnMgdXNpbmciCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTW9ydGdhZ2VEYXRhYmFzZSA9IGNvbnRhaW5lciAiTW9ydGdhZ2UgQXBwbGljYXRpb24gRGF0YWJhc2UiICJTdG9yZXMgSW5jb21wbGV0ZSBMb2FuIEFwcGxpY2F0aW9ucyIgIlNRTFNlcnZlciAyMDE5IiB7CiAgICAgICAgICAgICAgICB0YWdzIERhdGFiYXNlCiAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uUmVwb3NpdG9yeSAtPiB0aGlzICJXcml0ZXMgYXBwbGljYXRpb25zIHRvIGFuZCByZWFkcyB0aGVtIGZyb20iICJKU09OL0hUVFBTIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIENyZWRpdFNjb3JpbmdTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQ3JlZGl0IFNjb3JpbmcgU3lzdGVtIiAiU2NvcmVzIGFuIGFwcGxpY2FudCIgRXh0ZXJuYWxTeXN0ZW0KICAgICAgICBDcmVkaXRSdWxlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkNyZWRpdCBSdWxlIFN5c3RlbSIgIkFwcHJvdmVzIG9yIHJlamVjdHMgYW4gYXBwbGljYXRpb24iIEV4dGVybmFsU3lzdGVtCiAgICAgICAgU21zR2F0ZXdheSA9IHNvZnR3YXJlU3lzdGVtICJTTVMgR2F0ZXdheSIgIlByb3ZpZGVzIGEgUkVTVCBBUEkgZm9yIHNlbmRpbmcgc21zIiBFeHRlcm5hbFN5c3RlbQoKICAgICAgICBVc2VyIC0+IE1vcnRnYWdlQXBwbGljYXRpb25Gb3JtICJGaWxscyBpbiBwZXJzb25hbCBhbmQgZWNvbm9taWMgaW5mbyIKCiAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkZvcm0gLT4gTW9ydGdhZ2VBcGkgIlN1Ym1pdHMgbG9hbiBhcHBsaWNhdGlvbiBmb3IgcHJvY2Vzc2luZyIgIkpTT04vSFRUUFMiCiAgICAgICAgQ3JlZGl0Q2xpZW50IC0+IENyZWRpdFNjb3JpbmdTeXN0ZW0gIlNjb3JlcyBhbmQgYXBwbGljYW50IHVzaW5nIiAiU09BUCIKICAgICAgICBDcmVkaXRDbGllbnQgLT4gQ3JlZGl0UnVsZVN5c3RlbSAiTWFrZXMgYW4gZGVjaXNpb24gdXNpbmciICJnUlBDIgogICAgICAgIE5vdGlmaWNhdGlvbkNsaWVudCAtPiBTbXNHYXRld2F5ICJTZW5kcyBzbXMgbm90ZmljYXRpY2F0aW9ucyB0byBjdXN0b21lcnMgdXNpbmciICJKU09OL0hUVFBTIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IE1vcnRnYWdlUG9ydGFsICJNb3J0Z2FnZVBvcnRhbENvbnRleHQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBNb3J0Z2FnZVBvcnRhbCAiTW9ydGdhZ2VQb3J0YWxDb250YWluZXIiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBNb3J0Z2FnZUFwaSAiTW9ydGdhZ2VBcGlDb21wb25lbnQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50IEV4dGVybmFsU3lzdGVtIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgI0RERERERAogICAgICAgICAgICAgICAgY29sb3IgIzIyMjIyMgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgV2ViQXBwIHsKICAgICAgICAgICAgICAgIHNoYXBlIFdlYkJyb3dzZXIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCBEYXRhYmFzZSB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKfQo="
+  },
+  "configuration" : { },
+  "model" : {
+    "people" : [ {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "name" : "Applicant",
+      "description" : "Might be a customer or a prospect customer",
+      "relationships" : [ {
+        "id" : "23",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Fills in personal and economic info"
+      }, {
+        "id" : "22",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "Fills in personal and economic info"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "19",
+      "tags" : "Element,Software System,ExternalSystem",
+      "name" : "Credit Scoring System",
+      "description" : "Scores an applicant",
+      "location" : "Unspecified"
+    }, {
+      "id" : "21",
+      "tags" : "Element,Software System,ExternalSystem",
+      "name" : "SMS Gateway",
+      "description" : "Provides a REST API for sending sms",
+      "location" : "Unspecified"
+    }, {
+      "id" : "20",
+      "tags" : "Element,Software System,ExternalSystem",
+      "name" : "Credit Rule System",
+      "description" : "Approves or rejects an application",
+      "location" : "Unspecified"
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "name" : "Mortgage Portal",
+      "description" : "Allows applicants to fill in mortage applications and apply for loan",
+      "relationships" : [ {
+        "id" : "26",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "19",
+        "description" : "Scores and applicant using",
+        "technology" : "SOAP"
+      }, {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "20",
+        "description" : "Makes an decision using",
+        "technology" : "gRPC"
+      }, {
+        "id" : "32",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "21",
+        "description" : "Sends sms notficatications to customers using",
+        "technology" : "JSON/HTTPS"
+      } ],
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "16",
+        "tags" : "Element,Container,Database",
+        "name" : "Mortgage Application Database",
+        "description" : "Stores Incomplete Loan Applications",
+        "technology" : "SQLServer 2019"
+      }, {
+        "id" : "3",
+        "tags" : "Element,Container,WebApp",
+        "name" : "Mortgage Application Form",
+        "description" : "Appication Form which guides the applicant throught all the steps for the loan applications",
+        "relationships" : [ {
+          "id" : "6",
+          "tags" : "Relationship",
+          "sourceId" : "3",
+          "destinationId" : "5",
+          "description" : "Submits loan application for processing"
+        }, {
+          "id" : "7",
+          "tags" : "Relationship",
+          "sourceId" : "3",
+          "destinationId" : "4",
+          "description" : "Submits loan application for processing"
+        } ],
+        "technology" : "Vue.JS"
+      }, {
+        "id" : "4",
+        "tags" : "Element,Container",
+        "name" : "Mortgage Application API",
+        "description" : "Provides API for applying for loans",
+        "relationships" : [ {
+          "id" : "18",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "16",
+          "description" : "Writes applications to and reads them from",
+          "technology" : "JSON/HTTPS"
+        }, {
+          "id" : "31",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "21",
+          "description" : "Sends sms notficatications to customers using",
+          "technology" : "JSON/HTTPS"
+        }, {
+          "id" : "25",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "19",
+          "description" : "Scores and applicant using",
+          "technology" : "SOAP"
+        }, {
+          "id" : "28",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "20",
+          "description" : "Makes an decision using",
+          "technology" : "gRPC"
+        } ],
+        "technology" : "Spring MVC Tomcat",
+        "components" : [ {
+          "id" : "14",
+          "tags" : "Element,Component",
+          "name" : "Notification Client",
+          "description" : "Provides notification features",
+          "relationships" : [ {
+            "id" : "30",
+            "tags" : "Relationship",
+            "sourceId" : "14",
+            "destinationId" : "21",
+            "description" : "Sends sms notficatications to customers using",
+            "technology" : "JSON/HTTPS"
+          } ],
+          "technology" : "Java Package",
+          "size" : 0
+        }, {
+          "id" : "5",
+          "tags" : "Element,Component",
+          "name" : "Mortgage Application Controller",
+          "description" : "Provides endpoints for creating, updating and submitting an loan application",
+          "relationships" : [ {
+            "id" : "9",
+            "tags" : "Relationship",
+            "sourceId" : "5",
+            "destinationId" : "8",
+            "description" : "Creates, updates, and submits applications using"
+          } ],
+          "technology" : "Spring MVC Controller",
+          "size" : 0
+        }, {
+          "id" : "10",
+          "tags" : "Element,Component",
+          "name" : "Mortgage Application Repository",
+          "description" : "Provides persistance for loan applications",
+          "relationships" : [ {
+            "id" : "17",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "16",
+            "description" : "Writes applications to and reads them from",
+            "technology" : "JSON/HTTPS"
+          } ],
+          "technology" : "Spring JPA Repossitory",
+          "size" : 0
+        }, {
+          "id" : "12",
+          "tags" : "Element,Component",
+          "name" : "Credit Client",
+          "description" : "Provides an facade for credit scoring and decision",
+          "relationships" : [ {
+            "id" : "27",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "20",
+            "description" : "Makes an decision using",
+            "technology" : "gRPC"
+          }, {
+            "id" : "24",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "19",
+            "description" : "Scores and applicant using",
+            "technology" : "SOAP"
+          } ],
+          "technology" : "Java Package",
+          "size" : 0
+        }, {
+          "id" : "8",
+          "tags" : "Element,Component",
+          "name" : "Mortgage Application Service",
+          "description" : "Controlls the flow of the applicaton",
+          "relationships" : [ {
+            "id" : "13",
+            "tags" : "Relationship",
+            "sourceId" : "8",
+            "destinationId" : "12",
+            "description" : "Scores applicants and makes decisions using"
+          }, {
+            "id" : "15",
+            "tags" : "Relationship",
+            "sourceId" : "8",
+            "destinationId" : "14",
+            "description" : "Sends notifications to customers using"
+          }, {
+            "id" : "11",
+            "tags" : "Relationship",
+            "sourceId" : "8",
+            "destinationId" : "10",
+            "description" : "Persists applications using"
+          } ],
+          "technology" : "Spring Component",
+          "size" : 0
+        } ]
+      } ]
+    } ]
+  },
+  "documentation" : {
+    "sections" : [ {
+      "title" : "Context",
+      "order" : 1,
+      "format" : "Markdown",
+      "content" : "## Context\n\nHere is a description of my software system...\n\n![](embed:MortgagePortalContext)\n\n"
+    } ]
+  },
+  "views" : {
+    "systemContextViews" : [ {
+      "softwareSystemId" : "2",
+      "key" : "MortgagePortalContext",
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 2366,
+        "height" : 1916
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 957,
+        "y" : 207
+      }, {
+        "id" : "2",
+        "x" : 957,
+        "y" : 807
+      }, {
+        "id" : "19",
+        "x" : 207,
+        "y" : 1407
+      }, {
+        "id" : "20",
+        "x" : 957,
+        "y" : 1407
+      }, {
+        "id" : "21",
+        "x" : 1707,
+        "y" : 1407
+      } ],
+      "relationships" : [ {
+        "id" : "29"
+      }, {
+        "id" : "26"
+      }, {
+        "id" : "23"
+      }, {
+        "id" : "32"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "softwareSystemId" : "2",
+      "key" : "MortgagePortalContainer",
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3254,
+        "height" : 2620
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 286,
+        "y" : 213
+      }, {
+        "id" : "3",
+        "x" : 286,
+        "y" : 813
+      }, {
+        "id" : "4",
+        "x" : 286,
+        "y" : 1413
+      }, {
+        "id" : "16",
+        "x" : 286,
+        "y" : 2013
+      }, {
+        "id" : "19",
+        "x" : 1036,
+        "y" : 2013
+      }, {
+        "id" : "20",
+        "x" : 1786,
+        "y" : 2013
+      }, {
+        "id" : "21",
+        "x" : 2536,
+        "y" : 2013
+      } ],
+      "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "28"
+      }, {
+        "id" : "25"
+      }, {
+        "id" : "22"
+      }, {
+        "id" : "7"
+      }, {
+        "id" : "31",
+        "vertices" : [ {
+          "x" : 2386,
+          "y" : 2013
+        } ]
+      } ]
+    } ],
+    "componentViews" : [ {
+      "key" : "MortgageApiComponent",
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3220,
+        "height" : 3116
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "4",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "12",
+        "x" : 999,
+        "y" : 2007
+      }, {
+        "id" : "14",
+        "x" : 1749,
+        "y" : 2007
+      }, {
+        "id" : "3",
+        "x" : 1749,
+        "y" : 207
+      }, {
+        "id" : "16",
+        "x" : 2499,
+        "y" : 2607
+      }, {
+        "id" : "5",
+        "x" : 1749,
+        "y" : 807
+      }, {
+        "id" : "19",
+        "x" : 249,
+        "y" : 2607
+      }, {
+        "id" : "8",
+        "x" : 1749,
+        "y" : 1407
+      }, {
+        "id" : "20",
+        "x" : 999,
+        "y" : 2607
+      }, {
+        "id" : "10",
+        "x" : 2499,
+        "y" : 2007
+      }, {
+        "id" : "21",
+        "x" : 1749,
+        "y" : 2607
+      } ],
+      "relationships" : [ {
+        "id" : "17"
+      }, {
+        "id" : "27"
+      }, {
+        "id" : "15"
+      }, {
+        "id" : "24"
+      }, {
+        "id" : "13"
+      }, {
+        "id" : "6"
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "9"
+      }, {
+        "id" : "30"
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "ExternalSystem",
+          "background" : "#dddddd",
+          "color" : "#222222"
+        }, {
+          "tag" : "WebApp",
+          "shape" : "WebBrowser"
+        }, {
+          "tag" : "Database",
+          "shape" : "Cylinder"
+        } ]
+      },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
+      "terminology" : { },
+      "lastSavedView" : "MortgagePortalContext"
+    }
+  }
+}
