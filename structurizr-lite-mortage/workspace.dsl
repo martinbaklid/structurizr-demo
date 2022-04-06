@@ -2,8 +2,6 @@ workspace {
     # !docs docs 
 
     # TODO Fix docs
-    # TODO Add enterprise boundary
-    # TODO BankID
     model {
         impliedRelationships true
 
@@ -109,5 +107,4 @@ workspace {
             
         }
     }
-
 }
