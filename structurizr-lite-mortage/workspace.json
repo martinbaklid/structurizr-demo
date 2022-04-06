@@ -3,7 +3,7 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-04-06T18:30:42Z",
+  "lastModifiedDate" : "2022-04-06T19:13:39Z",
   "lastModifiedAgent" : "structurizr-web/2465",
   "properties" : {
     "structurizr.dsl" : "d29ya3NwYWNlIHsKICAgICMgIWRvY3MgZG9jcyAKCiAgICAjIFRPRE8gRml4IGRvY3MKICAgICMgVE9ETyBBZGQgZW50ZXJwcmlzZSBib3VuZGFyeQogICAgIyBUT0RPIEJhbmtJRAogICAgbW9kZWwgewogICAgICAgIGltcGxpZWRSZWxhdGlvbnNoaXBzIHRydWUKCiAgICAgICAgQXBwbGljYW50ID0gcGVyc29uICJBcHBsaWNhbnQiICJNaWdodCBiZSBhIGN1c3RvbWVyIG9yIGEgcHJvc3BlY3QgY3VzdG9tZXIiCiAgICAgICAgZW50ZXJwcmlzZSAiRGlnaXRhbEZpblRlY2h5QmFuayIgewogICAgICAgICAgICBNb3J0Z2FnZVBvcnRhbCA9IHNvZnR3YXJlU3lzdGVtICJNb3J0Z2FnZSBQb3J0YWwiICJBbGxvd3MgYXBwbGljYW50cyB0byBmaWxsIGluIG1vcnRnYWdlIGFwcGxpY2F0aW9ucyBhbmQgYXBwbHkgZm9yIGxvYW4iIHsKICAgICAgICAgICAgICAgIE1vcnRnYWdlQXBwbGljYXRpb25Gb3JtID0gY29udGFpbmVyICJNb3J0Z2FnZSBBcHBsaWNhdGlvbiBGb3JtIiAiQXBwbGljYXRpb24gRm9ybSB3aGljaCBndWlkZXMgdGhlIGFwcGxpY2FudHMgdGhyb3VnaCBhbGwgdGhlIHN0ZXBzIGZvciB0aGUgbG9hbiBhcHBsaWNhdGlvbiIgIlZ1ZS5KUyIgewogICAgICAgICAgICAgICAgICAgIHRhZ3MgV2ViQXBwIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgTW9ydGdhZ2VBcGkgPSBjb250YWluZXIgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIEFQSSIgIlByb3ZpZGVzIEFQSSBmb3IgYXBwbHlpbmcgZm9yIGxvYW5zIiAiU3ByaW5nIE1WQyBUb21jYXQiIHsKICAgICAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uQ29udHJvbGxlciA9IGNvbXBvbmVudCAiTW9ydGdhZ2UgQXBwbGljYXRpb24gQ29udHJvbGxlciIgIlByb3ZpZGVzIGVuZHBvaW50cyBmb3IgY3JlYXRpbmcsIHVwZGF0aW5nIGFuZCBzdWJtaXR0aW5nIGFuIGxvYW4gYXBwbGljYXRpb24iICJTcHJpbmcgTVZDIENvbnRyb2xsZXIiCiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgPSBjb21wb25lbnQgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIFNlcnZpY2UiICJPcmNoaXN0cmF0ZXMgdGhlIGZsb3cgb2YgdGhlIGFwcGxpY2F0aW9uIiAiU3ByaW5nIENvbXBvbmVudCIgewogICAgICAgICAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uQ29udHJvbGxlciAtPiB0aGlzICJjcmVhdGVzLCB1cGRhdGVzLCBhbmQgc3VibWl0cyBhcHBsaWNhdGlvbnMgdXNpbmciCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIERvY3VtZW50Q29tcG9uZW50ID0gY29tcG9uZW50ICJEb2N1bWVudCBDb21wb25lbnQiICJIYW5kbGVzIHRoZSBkb2N1bWVudCBzaWduaW5nIGFuZCBhcmNoaXZpbmcgZmxvdyIgIlNwcmluZyBCZWFucyBhbmQgUXVhcnR6IEpvYiIgeyAKICAgICAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAic2VuZHMgbW9ydGdhZ2UgYWdyZWVtZW50IGRvY3VtZW50IGZvciBzaWduaW5nIGFuZCBhcmNoaW52aW5nIgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzIC0+IE1vcnRnYWdlQXBwbGljYXRpb25TZXJ2aWNlICJzZW5kcyBub3RpZmljYXRpb24gYWJvdXQgc2lnbmVuZCBhbmQgYXJjaGl2ZWQgZG9jdW1lbnQgdG8iCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIENyZWRpdERlY2lzaW9uRW5naW5lID0gY29tcG9uZW50ICJDcmVkaXQgRGVjaXNpb24gRW5naW5lIiAiSG9sZHMgdGhlIGJ1c2luZXNzIHJ1bGVzIGZvciBtYWtpbmcgYW4gY3JlZGl0IGRlY2lzb24iICJEcm9vbHMiIHsKICAgICAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAiZGVsZWdhdGVzIGNyZWRpdCBkZWNpc29uIHRvIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBBZ3JlZW1lbnRQREZHZW5lcmF0b3IgPSBjb21wb25lbnQgIkFncmVlbWVudCBQREYgR2VuZXJhdG9yIiAiR2VuZXJhdGVzIFBERiBiYXNlZCBvbiBIVE1MIENTUyB0ZW1wbGF0ZS4iICJGbHlpbmcgU2F1Y2VyIFBERiBSZW5kZXJpbmciIHsKICAgICAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAiZ2VuZXJhdGVzIEFncmVlbWVudCBQREYgd2l0aCIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgQ3JlZGl0U2NvcmluZ0NsaWVudCA9IGNvbXBvbmVudCAiQ3JlZGl0IFNjb3JpbmcgQ29tcG9uZW50IiAiQ29tcG9uZW50IGZvciBzY29yaW5nIGFwcGxpY2FudHMiICJTcHJpbmcgQmVhbiIgewogICAgICAgICAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uU2VydmljZSAtPiB0aGlzICJnZXQgY3JlZGl0IHNjb3JlIGZvciBhcHBsaWNhbnQgZnJvbSIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgQ29yZUJhbmtpbmdDbGllbnQgPSBjb21wb25lbnQgIkNvcmUgQmFua2luZyBDb21wb25lbnQiICJDb21wb25lbnQgZm9yIGNyZWF0aW5nIGxvYW4gYWNjb3VudHMgYW5kIHJlZ2lzdGVyIGNvbGxhdGVyYWwiICJTcHJpbmcgQmVhbiIgewogICAgICAgICAgICAgICAgICAgICAgICBNb3J0Z2FnZUFwcGxpY2F0aW9uU2VydmljZSAtPiB0aGlzICJjcmVhdGUgbW9ydGdhZ2UgbG9hbiBhY2NvdW50IGFuZCByZWdpc3RlciBjb2xsYXRlcmFsIGZvciBtb3J0Z2FnZSIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uQ2xpZW50ID0gY29tcG9uZW50ICJOb3RpZmljYXRpb24gQ2xpZW50IiAiU2VuZHMgbm90aWZpY2F0aW9ucyB0byBhcHBsaWNhbnRzIHZpYSBTTVMiICJGZWlnbiBDbGllbnQiIHsKICAgICAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAic2VuZHMgc21zIHRvIGFwcGxpY2FudCBhYm91dCBkZWNpc2lvbiBhbmQgZXNpZ25pbmcgbGluayB1c2luZyIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblJlcG9zaXRvcnkgPSBjb21wb25lbnQgIk1vcnRnYWdlIEFwcGxpY2F0aW9uIFJlcG9zaXRvcnkiICJQcm92aWRlcyBwZXJzaXN0YW5jZSBmb3IgbG9hbiBhcHBsaWNhdGlvbnMiICJTcHJpbmcgSlBBIFJlcG9zaXRvcnkiIHsKICAgICAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblNlcnZpY2UgLT4gdGhpcyAicGVyc2lzdHMgYXBwbGljYXRpb25zIHVzaW5nIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBEb2N1bWVudFJlcG9zaXRvcnkgPSBjb21wb25lbnQgIkRvY3VtZW50IFJlcG9zaXRvcnkiICJQcm92aWRlcyBwcmVzaXN0YW5jZSBkb2N1bWVudCBzaWduaW5nIGZsb3ciICJTcHJpbmcgSlBBIFJlcG9zaXRvcnkiIHsKICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRDb21wb25lbnQgLT4gdGhpcyAicGVyc2lzdHMgbWV0YWRhdGEgYWJvdXQgZG9jdW1lbnRzIHBlbmRpbmcgc2lnbmluZyB1c2luZyIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgTW9ydGdhZ2VEYXRhYmFzZSA9IGNvbnRhaW5lciAiTW9ydGdhZ2UgQXBwbGljYXRpb24gRGF0YWJhc2UiICJTdG9yZXMgbG9hbiBhcHBsaWNhdGlvbnMsIGRvY3VtZW50IG1ldGFkYXRhIGFuZCBRdWFydHogc3ljcm9uaXphdGlvbiBkYXRhIiAiU1FMU2VydmVyIDIwMTkiIHsKICAgICAgICAgICAgICAgICAgICB0YWdzIERhdGFiYXNlCiAgICAgICAgICAgICAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvblJlcG9zaXRvcnkgLT4gdGhpcyAid3JpdGVzIGFwcGxpY2F0aW9ucyB0byBhbmQgcmVhZHMgdGhlbSBmcm9tIiAiSkRCQyIKICAgICAgICAgICAgICAgICAgICBEb2N1bWVudFJlcG9zaXRvcnkgLT4gdGhpcyAid3JpdGVzIGFuZCByZWFkcyBtZXRhZGF0YSBhYm91dCBkb2N1bWVudHMgcGVuZGluZyBzaWdpbmciCiAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRDb21wb25lbnQgLT4gdGhpcyAid3JpdGUgYW5kIHJlYWRzIHF1YXJ0eiBzeW5jcm9uaXNhdGlvbiBkYXRhIiAiSkRCQyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBDb21BcmNoID0gc29mdHdhcmVTeXN0ZW0gIkNvbXBsZXggQXJjaGl2ZSAoQ29tQXJjaCkiICJQcm92aWRlcyBhbiBhcmNoaXZlIGZvciBpbXBvcnRhbnQgZG9jdW1lbnRzIiBFeHRlcm5hbFN5c3RlbQogICAgICAgICAgICBDb3JlQmFua2luZyA9IHNvZnR3YXJlU3lzdGVtICJDb3JlIEZvdW5kYXRpb24gQmFua2luZyBQbGF0Zm9ybSBBcmVuYSIgIlByb3ZpZGVzIGNvcmUgYmFua2luZyBzZXJ2aWNlcyBsaWtlIGxvYW4gYWNjb3VudHMiIEV4dGVybmFsU3lzdGVtCiAgICAgICAgfQogICAgICAgIENyZWRpdEthcm1hID0gc29mdHdhcmVTeXN0ZW0gIkNyZWRpdCBLYXJtYSIgIlByb3ZpZGVzIGNyZWRpdCBzY29yaW5nIG9mIG5vcndlZ2lhbiBjaXRpemVucyBhbmQgcHJvcGVydHkgdmFsdWF0aW9uIiBFeHRlcm5hbENvbXBhbnkKICAgICAgICBTaWduaW5nRG9nID0gc29mdHdhcmVTeXN0ZW0gIlNpZ25pbmdEb2ciICJQcm92aWRlcyBlbGVjdHJvbmljIHNpZ25pbmciIEV4dGVybmFsQ29tcGFueSAKICAgICAgICBLbm90TW9iaWxpdHkgPSBzb2Z0d2FyZVN5c3RlbSAiS25vdCBNb2JpbGl0eSIgIlByb3ZpZGVzIGEgUkVTVCBBUEkgZm9yIHNlbmRpbmcgc21zIiBFeHRlcm5hbENvbXBhbnkKCgogICAgICAgIEFwcGxpY2FudCAtPiBNb3J0Z2FnZUFwcGxpY2F0aW9uRm9ybSAiRmlsbHMgaW4gcGVyc29uYWwgYW5kIHByb3BlcnR5IGluZm9ybWF0aW9uIiAKCiAgICAgICAgTW9ydGdhZ2VBcHBsaWNhdGlvbkZvcm0gLT4gTW9ydGdhZ2VBcHBsaWNhdGlvbkNvbnRyb2xsZXIgImNyZWF0ZXMsIHVwZGF0ZXMgYW5kIHN1Ym1pdHMgbG9hbiBhcHBsaWNhdGlvbiIgIkhUVFBTL0pTT04iCiAgICAgICAgQ3JlZGl0U2NvcmluZ0NsaWVudCAtPiBDcmVkaXRLYXJtYSAic2NvcmVzIGFuZCBhcHBsaWNhbnQgdXNpbmciICJTT0FQIgogICAgICAgIE5vdGlmaWNhdGlvbkNsaWVudCAtPiBLbm90TW9iaWxpdHkgIm5vdGlmaWVzIGFwcGxpY2FudCBhYm91dCBkZWNpc2lvbiBhbmQgc2VuZCBlc2lnbmluZyBsaW5rIHVzaW5nIiAiSFRUUFMvSlNPTiIKICAgICAgICBDb3JlQmFua2luZ0NsaWVudCAtPiBDb3JlQmFua2luZyAiY3JlYXRlcyBsb2FuIGFjY291bnQgYW5kIHJlZ2lzdHJlcnMgY29sbGF0ZXJhbCBpbiIgIkFNUVAiCiAgICAgICAgRG9jdW1lbnRDb21wb25lbnQgLT4gU2lnbmluZ0RvZyAiY2hlY2tzIGZvciBuZXdseSBzaWduZWQgZG9jdW1lbnRzIGF0IiAiU0ZUUCIKICAgICAgICBEb2N1bWVudENvbXBvbmVudCAtPiBDb21BcmNoICJzdG9yZXMgc2lnbmVkIGRvY3VtZW50cyBpbiIgIkhUVFBTL211bHRpcGFydCBmb3JtIGRhdGEgKEJhc2U2NCBlbmNvZGluZykiCgogICAgICAgIEtub3RNb2JpbGl0eSAtPiBBcHBsaWNhbnQgIm5vdGlmaWVzIGFwcGxpY2FudCBhYm91dCBkZWNpc2lvbiBhbmQgc2VuZCBlc2lnbmluZyBsaW5rIHVzaW5nIiAgCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgTW9ydGdhZ2VQb3J0YWwgIk1vcnRnYWdlUG9ydGFsQ29udGV4dCIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBNb3J0Z2FnZVBvcnRhbCAiTW9ydGdhZ2VQb3J0YWxDb250YWluZXIiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgTW9ydGdhZ2VQb3J0YWwgIk1vcnRnYWdlUG9ydGFsQ29udGFpbmVyV2l0aG91dEV4dGVybmFsIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBleGNsdWRlIGVsZW1lbnQudGFnPT1FeHRlcm5hbFN5c3RlbSBlbGVtZW50LnRhZz09RXh0ZXJuYWxDb21wYW55CiAgICAgICAgfQoKICAgICAgICBjb21wb25lbnQgTW9ydGdhZ2VBcGkgIk1vcnRnYWdlQXBpQ29tcG9uZW50IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgRXh0ZXJuYWxTeXN0ZW0gewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjRERERERECiAgICAgICAgICAgICAgICBjb2xvciAjMjIyMjIyICAgCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCBFeHRlcm5hbENvbXBhbnkgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjQkI2NjU1CiAgICAgICAgICAgICAgICBjb2xvciAjMjIyMjIyICAgCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCBXZWJBcHAgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgRGF0YWJhc2UgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICB9CiAgICB9Cgp9Cg=="
@@ -39,19 +39,12 @@
       "name" : "Mortgage Portal",
       "description" : "Allows applicants to fill in mortgage applications and apply for loan",
       "relationships" : [ {
-        "id" : "41",
+        "id" : "44",
         "tags" : "Relationship",
         "sourceId" : "2",
-        "destinationId" : "32",
-        "description" : "scores and applicant using",
-        "technology" : "SOAP"
-      }, {
-        "id" : "50",
-        "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "33",
-        "description" : "checks for newly signed documents at",
-        "technology" : "SFTP"
+        "destinationId" : "34",
+        "description" : "notifies applicant about decision and send esigning link using",
+        "technology" : "HTTPS/JSON"
       }, {
         "id" : "47",
         "tags" : "Relationship",
@@ -60,12 +53,12 @@
         "description" : "creates loan account and registrers collateral in",
         "technology" : "AMQP"
       }, {
-        "id" : "44",
+        "id" : "50",
         "tags" : "Relationship",
         "sourceId" : "2",
-        "destinationId" : "34",
-        "description" : "notifies applicant about decision and send esigning link using",
-        "technology" : "HTTPS/JSON"
+        "destinationId" : "33",
+        "description" : "checks for newly signed documents at",
+        "technology" : "SFTP"
       }, {
         "id" : "53",
         "tags" : "Relationship",
@@ -73,6 +66,13 @@
         "destinationId" : "30",
         "description" : "stores signed documents in",
         "technology" : "HTTPS/multipart form data (Base64 encoding)"
+      }, {
+        "id" : "41",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "32",
+        "description" : "scores and applicant using",
+        "technology" : "SOAP"
       } ],
       "location" : "Internal",
       "containers" : [ {
@@ -97,23 +97,24 @@
         } ],
         "technology" : "Vue.JS"
       }, {
-        "id" : "25",
-        "tags" : "Element,Container,Database",
-        "name" : "Mortgage Application Database",
-        "description" : "Stores loan applications, document metadata and Quartz sycronization data",
-        "technology" : "SQLServer 2019"
-      }, {
         "id" : "4",
         "tags" : "Element,Container",
         "name" : "Mortgage Application API",
         "description" : "Provides API for applying for loans",
         "relationships" : [ {
-          "id" : "52",
+          "id" : "27",
           "tags" : "Relationship",
           "sourceId" : "4",
-          "destinationId" : "30",
-          "description" : "stores signed documents in",
-          "technology" : "HTTPS/multipart form data (Base64 encoding)"
+          "destinationId" : "25",
+          "description" : "writes applications to and reads them from",
+          "technology" : "JDBC"
+        }, {
+          "id" : "46",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "31",
+          "description" : "creates loan account and registrers collateral in",
+          "technology" : "AMQP"
         }, {
           "id" : "49",
           "tags" : "Relationship",
@@ -122,20 +123,6 @@
           "description" : "checks for newly signed documents at",
           "technology" : "SFTP"
         }, {
-          "id" : "27",
-          "tags" : "Relationship",
-          "sourceId" : "4",
-          "destinationId" : "25",
-          "description" : "writes applications to and reads them from",
-          "technology" : "JDBC"
-        }, {
-          "id" : "40",
-          "tags" : "Relationship",
-          "sourceId" : "4",
-          "destinationId" : "32",
-          "description" : "scores and applicant using",
-          "technology" : "SOAP"
-        }, {
           "id" : "43",
           "tags" : "Relationship",
           "sourceId" : "4",
@@ -143,20 +130,114 @@
           "description" : "notifies applicant about decision and send esigning link using",
           "technology" : "HTTPS/JSON"
         }, {
-          "id" : "46",
+          "id" : "52",
           "tags" : "Relationship",
           "sourceId" : "4",
-          "destinationId" : "31",
-          "description" : "creates loan account and registrers collateral in",
-          "technology" : "AMQP"
+          "destinationId" : "30",
+          "description" : "stores signed documents in",
+          "technology" : "HTTPS/multipart form data (Base64 encoding)"
+        }, {
+          "id" : "40",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "32",
+          "description" : "scores and applicant using",
+          "technology" : "SOAP"
         } ],
         "technology" : "Spring MVC Tomcat",
         "components" : [ {
+          "id" : "19",
+          "tags" : "Element,Component",
+          "name" : "Notification Client",
+          "description" : "Sends notifications to applicants via SMS",
+          "relationships" : [ {
+            "id" : "42",
+            "tags" : "Relationship",
+            "sourceId" : "19",
+            "destinationId" : "34",
+            "description" : "notifies applicant about decision and send esigning link using",
+            "technology" : "HTTPS/JSON"
+          } ],
+          "technology" : "Feign Client",
+          "size" : 0
+        }, {
+          "id" : "6",
+          "tags" : "Element,Component",
+          "name" : "Mortgage Application Service",
+          "description" : "Orchistrates the flow of the application",
+          "relationships" : [ {
+            "id" : "14",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "13",
+            "description" : "generates Agreement PDF with"
+          }, {
+            "id" : "9",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "8",
+            "description" : "sends mortgage agreement document for signing and archinving"
+          }, {
+            "id" : "18",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "17",
+            "description" : "create mortgage loan account and register collateral for mortgage"
+          }, {
+            "id" : "16",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "15",
+            "description" : "get credit score for applicant from"
+          }, {
+            "id" : "20",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "19",
+            "description" : "sends sms to applicant about decision and esigning link using"
+          }, {
+            "id" : "12",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "11",
+            "description" : "delegates credit decison to"
+          }, {
+            "id" : "22",
+            "tags" : "Relationship",
+            "sourceId" : "6",
+            "destinationId" : "21",
+            "description" : "persists applications using"
+          } ],
+          "technology" : "Spring Component",
+          "size" : 0
+        }, {
+          "id" : "21",
+          "tags" : "Element,Component",
+          "name" : "Mortgage Application Repository",
+          "description" : "Provides persistance for loan applications",
+          "relationships" : [ {
+            "id" : "26",
+            "tags" : "Relationship",
+            "sourceId" : "21",
+            "destinationId" : "25",
+            "description" : "writes applications to and reads them from",
+            "technology" : "JDBC"
+          } ],
+          "technology" : "Spring JPA Repository",
+          "size" : 0
+        }, {
           "id" : "8",
           "tags" : "Element,Component",
           "name" : "Document Component",
           "description" : "Handles the document signing and archiving flow",
           "relationships" : [ {
+            "id" : "48",
+            "tags" : "Relationship",
+            "sourceId" : "8",
+            "destinationId" : "33",
+            "description" : "checks for newly signed documents at",
+            "technology" : "SFTP"
+          }, {
             "id" : "29",
             "tags" : "Relationship",
             "sourceId" : "8",
@@ -176,13 +257,6 @@
             "destinationId" : "23",
             "description" : "persists metadata about documents pending signing using"
           }, {
-            "id" : "48",
-            "tags" : "Relationship",
-            "sourceId" : "8",
-            "destinationId" : "33",
-            "description" : "checks for newly signed documents at",
-            "technology" : "SFTP"
-          }, {
             "id" : "51",
             "tags" : "Relationship",
             "sourceId" : "8",
@@ -193,69 +267,39 @@
           "technology" : "Spring Beans and Quartz Job",
           "size" : 0
         }, {
-          "id" : "6",
+          "id" : "23",
           "tags" : "Element,Component",
-          "name" : "Mortgage Application Service",
-          "description" : "Orchistrates the flow of the application",
+          "name" : "Document Repository",
+          "description" : "Provides presistance document signing flow",
           "relationships" : [ {
-            "id" : "14",
+            "id" : "28",
             "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "13",
-            "description" : "generates Agreement PDF with"
-          }, {
-            "id" : "22",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "21",
-            "description" : "persists applications using"
-          }, {
-            "id" : "20",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "19",
-            "description" : "sends sms to applicant about decision and esigning link using"
-          }, {
-            "id" : "16",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "15",
-            "description" : "get credit score for applicant from"
-          }, {
-            "id" : "9",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "8",
-            "description" : "sends mortgage agreement document for signing and archinving"
-          }, {
-            "id" : "12",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "11",
-            "description" : "delegates credit decison to"
-          }, {
-            "id" : "18",
-            "tags" : "Relationship",
-            "sourceId" : "6",
-            "destinationId" : "17",
-            "description" : "create mortgage loan account and register collateral for mortgage"
+            "sourceId" : "23",
+            "destinationId" : "25",
+            "description" : "writes and reads metadata about documents pending siging"
           } ],
-          "technology" : "Spring Component",
+          "technology" : "Spring JPA Repository",
           "size" : 0
         }, {
-          "id" : "19",
+          "id" : "5",
           "tags" : "Element,Component",
-          "name" : "Notification Client",
-          "description" : "Sends notifications to applicants via SMS",
+          "name" : "Mortgage Application Controller",
+          "description" : "Provides endpoints for creating, updating and submitting an loan application",
           "relationships" : [ {
-            "id" : "42",
+            "id" : "7",
             "tags" : "Relationship",
-            "sourceId" : "19",
-            "destinationId" : "34",
-            "description" : "notifies applicant about decision and send esigning link using",
-            "technology" : "HTTPS/JSON"
+            "sourceId" : "5",
+            "destinationId" : "6",
+            "description" : "creates, updates, and submits applications using"
           } ],
-          "technology" : "Feign Client",
+          "technology" : "Spring MVC Controller",
+          "size" : 0
+        }, {
+          "id" : "13",
+          "tags" : "Element,Component",
+          "name" : "Agreement PDF Generator",
+          "description" : "Generates PDF based on HTML CSS template.",
+          "technology" : "Flying Saucer PDF Rendering",
           "size" : 0
         }, {
           "id" : "17",
@@ -273,6 +317,13 @@
           "technology" : "Spring Bean",
           "size" : 0
         }, {
+          "id" : "11",
+          "tags" : "Element,Component",
+          "name" : "Credit Decision Engine",
+          "description" : "Holds the business rules for making an credit decison",
+          "technology" : "Drools",
+          "size" : 0
+        }, {
           "id" : "15",
           "tags" : "Element,Component",
           "name" : "Credit Scoring Component",
@@ -287,77 +338,14 @@
           } ],
           "technology" : "Spring Bean",
           "size" : 0
-        }, {
-          "id" : "5",
-          "tags" : "Element,Component",
-          "name" : "Mortgage Application Controller",
-          "description" : "Provides endpoints for creating, updating and submitting an loan application",
-          "relationships" : [ {
-            "id" : "7",
-            "tags" : "Relationship",
-            "sourceId" : "5",
-            "destinationId" : "6",
-            "description" : "creates, updates, and submits applications using"
-          } ],
-          "technology" : "Spring MVC Controller",
-          "size" : 0
-        }, {
-          "id" : "11",
-          "tags" : "Element,Component",
-          "name" : "Credit Decision Engine",
-          "description" : "Holds the business rules for making an credit decison",
-          "technology" : "Drools",
-          "size" : 0
-        }, {
-          "id" : "23",
-          "tags" : "Element,Component",
-          "name" : "Document Repository",
-          "description" : "Provides presistance document signing flow",
-          "relationships" : [ {
-            "id" : "28",
-            "tags" : "Relationship",
-            "sourceId" : "23",
-            "destinationId" : "25",
-            "description" : "writes and reads metadata about documents pending siging"
-          } ],
-          "technology" : "Spring JPA Repository",
-          "size" : 0
-        }, {
-          "id" : "21",
-          "tags" : "Element,Component",
-          "name" : "Mortgage Application Repository",
-          "description" : "Provides persistance for loan applications",
-          "relationships" : [ {
-            "id" : "26",
-            "tags" : "Relationship",
-            "sourceId" : "21",
-            "destinationId" : "25",
-            "description" : "writes applications to and reads them from",
-            "technology" : "JDBC"
-          } ],
-          "technology" : "Spring JPA Repository",
-          "size" : 0
-        }, {
-          "id" : "13",
-          "tags" : "Element,Component",
-          "name" : "Agreement PDF Generator",
-          "description" : "Generates PDF based on HTML CSS template.",
-          "technology" : "Flying Saucer PDF Rendering",
-          "size" : 0
         } ]
+      }, {
+        "id" : "25",
+        "tags" : "Element,Container,Database",
+        "name" : "Mortgage Application Database",
+        "description" : "Stores loan applications, document metadata and Quartz sycronization data",
+        "technology" : "SQLServer 2019"
       } ]
-    }, {
-      "id" : "32",
-      "tags" : "Element,Software System,ExternalCompany",
-      "name" : "Credit Karma",
-      "description" : "Provides credit scoring of norwegian citizens and property valuation",
-      "location" : "External"
-    }, {
-      "id" : "33",
-      "tags" : "Element,Software System,ExternalCompany",
-      "name" : "SigningDog",
-      "description" : "Provides electronic signing",
-      "location" : "External"
     }, {
       "id" : "31",
       "tags" : "Element,Software System,ExternalSystem",
@@ -378,11 +366,23 @@
       } ],
       "location" : "External"
     }, {
+      "id" : "32",
+      "tags" : "Element,Software System,ExternalCompany",
+      "name" : "Credit Karma",
+      "description" : "Provides credit scoring of norwegian citizens and property valuation",
+      "location" : "External"
+    }, {
       "id" : "30",
       "tags" : "Element,Software System,ExternalSystem",
       "name" : "Complex Archive (ComArch)",
       "description" : "Provides an archive for important documents",
       "location" : "Internal"
+    }, {
+      "id" : "33",
+      "tags" : "Element,Software System,ExternalCompany",
+      "name" : "SigningDog",
+      "description" : "Provides electronic signing",
+      "location" : "External"
     } ]
   },
   "documentation" : { },
@@ -397,15 +397,15 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "33",
-        "x" : 3395,
-        "y" : 1215
+        "x" : 3370,
+        "y" : 1560
       }, {
         "id" : "1",
         "x" : 2361,
         "y" : 335
       }, {
         "id" : "34",
-        "x" : 3385,
+        "x" : 3370,
         "y" : 750
       }, {
         "id" : "2",
@@ -414,15 +414,15 @@
       }, {
         "id" : "30",
         "x" : 1577,
-        "y" : 1525
+        "y" : 1560
       }, {
         "id" : "31",
         "x" : 2327,
-        "y" : 1525
+        "y" : 1560
       }, {
         "id" : "32",
-        "x" : 3410,
-        "y" : 1665
+        "x" : 3370,
+        "y" : 1155
       } ],
       "relationships" : [ {
         "id" : "50"
@@ -450,16 +450,16 @@
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
         "id" : "33",
-        "x" : 3610,
-        "y" : 1375
+        "x" : 3615,
+        "y" : 2050
       }, {
         "id" : "1",
         "x" : 2445,
         "y" : 395
       }, {
         "id" : "34",
-        "x" : 3615,
-        "y" : 755
+        "x" : 3585,
+        "y" : 770
       }, {
         "id" : "3",
         "x" : 2427,
@@ -482,8 +482,8 @@
         "y" : 1375
       }, {
         "id" : "32",
-        "x" : 3630,
-        "y" : 1980
+        "x" : 3615,
+        "y" : 1335
       } ],
       "relationships" : [ {
         "id" : "27"
@@ -709,7 +709,7 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "MortgageApiComponent"
+      "lastSavedView" : "MortgagePortalContext"
     }
   }
 }
