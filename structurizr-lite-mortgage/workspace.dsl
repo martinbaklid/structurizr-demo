@@ -1,4 +1,4 @@
-workspace "Mortgage Portal" "Morgtgage Portal for DigitalFinTechyBank"{
+workspace "Mortgage Portal" "Mortgage Portal for DigitalFinTechyBank"{
     
     !docs docs 
     !adrs adrs
@@ -59,21 +59,36 @@ workspace "Mortgage Portal" "Morgtgage Portal for DigitalFinTechyBank"{
         KnotMobility = softwareSystem "Knot Mobility" "Provides a REST API for sending sms" ExternalCompany
 
 
-        Applicant -> MortgageApplicationForm "Fills in personal and property information" 
+        Applicant -> MortgageApplicationForm "Fills in personal and property information" {
+            perspectives {
+                Security "Logs inn with Bank ID (Open ID Connect)"
+            }
+        }
 
-        MortgageApplicationForm -> MortgageApplicationController "creates, updates and submits loan application" "HTTPS/JSON"
+        MortgageApplicationForm -> MortgageApplicationController "creates, updates and submits loan application" "HTTPS/JSON" {
+            perspectives {
+                Security "Request authenticated by Open ID Connect JWT Token"
+            }
+        }
+        
         CreditScoringClient -> CreditKarma "scores and applicant using" "SOAP"
         NotificationClient -> KnotMobility "notifies applicant about decision and send esigning link using" "HTTPS/JSON"
         CoreBankingClient -> CoreBanking "creates loan account and registrers collateral in" "AMQP"
         DocumentComponent -> SigningDog "checks for newly signed documents at" "SFTP"
         DocumentComponent -> ComArch "stores signed documents in" "HTTPS/multipart form data (Base64 encoding)"
 
-        KnotMobility -> Applicant "notifies applicant about decision and send esigning link using"  
+        KnotMobility -> Applicant "notifies applicant about decision and send esigning link using"
     }
 
     views {
         systemContext MortgagePortal "MortgagePortalContext" {
             include *
+            animation {
+                Applicant
+                MortgagePortal
+                ComArch CoreBanking
+                CreditKarma SigningDog KnotMobility
+            }
         }
 
         container MortgagePortal "MortgagePortalContainer" {
