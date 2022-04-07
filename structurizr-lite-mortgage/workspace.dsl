@@ -1,7 +1,8 @@
-workspace {
-    # !docs docs 
+workspace "Mortgage Portal" "Morgtgage Portal for DigitalFinTechyBank"{
+    
+    !docs docs 
+    !adrs adrs
 
-    # TODO Fix docs
     model {
         impliedRelationships true
 
